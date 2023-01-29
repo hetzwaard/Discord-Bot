@@ -1,6 +1,6 @@
 # Discord Bot
 
-A advanced Discord multipurpose botcontaining more than 400+ Commands.
+A advanced Discord multipurpose botcontaining more than 50+ Commands.
 It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.
 
 ## Installation
