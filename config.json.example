@@ -1,0 +1,8 @@
+{
+    "token": "YOUR_DISCORD_TOKEN",
+    "color": "#30D5C8",
+    "developerGuild": "YOUR_DEVELOPER_GUILD",
+    "database": "YOUR_MONODB",
+    "supportServer": "YOUR_DISCORD_SERVER",
+    "activityInterval": 10
+}
