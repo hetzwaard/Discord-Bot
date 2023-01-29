@@ -1,13 +1,14 @@
-# Elmas Discord Bot
+# Discord Bot
 
-Elmas is a discord bot. Elmas has about +50 commands. Playing games, making events and most important is that Elmas's gonna take care of your server :)
+A advanced Discord multipurpose botcontaining more than 400+ Commands.
+It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.
 
 ## Installation
 
 Clone the repo by running
 
 ```bash
-git clone https://github.com/hetzwaard/Elmas-Discord-Bot
+git clone https://github.com/hetzwaard/Discord-Bot
 ```
 
 ## Usage
