@@ -6,7 +6,7 @@ It can do Moderation, Tickets, Weather, Games, Giveaways, Customisation, Economy
 ## Requirements
 - NodeJs v17+
 - Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
-- Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com)
+- Mongo Database URL. Get it from [MongoDB](https://mongodb.com)
 - ClientID `for loading slash commands.`
 
 ## Installation
