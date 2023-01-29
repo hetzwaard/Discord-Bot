@@ -1,6 +1,6 @@
 # Elmas Discord Bot
 
-Elmas is a discord bot. Elmas has about +50 commands. Playing games, making events and most important is that Elmas is gonna take care of your server :)
+Elmas is a discord bot. Elmas has about +50 commands. Playing games, making events and most important is that Elmas's gonna take care of your server :)
 
 ## Installation
 
